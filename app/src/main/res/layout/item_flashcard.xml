@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@android:color/holo_blue_light"
+    android:layout_margin="30dp"
+    android:scaleType="centerCrop"
+    android:gravity="center"
+    android:contentDescription="Flashcard item">
+
+    <TextView
+        android:id="@+id/textWord"
+        android:layout_width="304dp"
+        android:layout_height="41dp"
+        android:contentDescription="Word"
+        android:gravity="center"
+        android:scaleType="centerCrop"
+        android:text="Word"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textMeaning"
+        android:layout_width="303dp"
+        android:layout_height="53dp"
+        android:contentDescription="Meaning"
+        android:gravity="center"
+        android:scaleType="centerCrop"
+        android:text="Meaning"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+</LinearLayout>

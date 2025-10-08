@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fillBlanksLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/fill_blanks_bg">
+
+    <!-- Title Bar -->
+
+    <!-- Language Selection Spinner -->
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:text="FILL IN THE BLANKS"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:shadowColor="#80000000"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="5"/>
+
+
+    <TextView
+        android:id="@+id/fillBlanksScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Score: 0"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center"
+        android:paddingBottom="10dp"/>
+
+
+
+
+    <Spinner
+        android:id="@+id/languageSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:spinnerMode="dropdown" />
+
+    <!-- Quiz content (hidden initially) -->
+    <LinearLayout
+        android:id="@+id/fillBlanksContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:visibility="gone"> <!-- Hidden initially -->
+
+        <TextView
+            android:id="@+id/fillBlanksSentence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="_____ días"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:layout_marginBottom="12dp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/fillBlanksAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter the missing word"
+            android:textColor="@color/black"
+            android:textColorHint="@color/green"
+            android:backgroundTint="@color/black"
+            android:layout_marginBottom="12dp"
+            android:padding="10dp"
+            android:gravity="center"/>
+
+        <Button
+            android:id="@+id/fillBlanksSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Check Answer"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:padding="12dp"
+            android:backgroundTint="@color/green"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+</LinearLayout>

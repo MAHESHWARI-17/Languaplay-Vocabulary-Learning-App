@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>  <!-- Green for correct -->
+    <color name="red">#F44336</color>    <!-- Red for wrong -->
+    <color name="default_button">#9BEE00</color>
+    <color name="light_purple">#F5E7E5</color>
+    <color name="primary_500">#EE4F00</color>
+    <color name="primary_700">#00B368</color>
+    <color name="splash_background">#FFFFFF</color>
+    <color name="light_background">#F5F5F5</color>
+    <color name="blue_500">#3F51B5</color>
+    <color name="red_500">#D32F2F</color>
+    <color name="dark_transparent">#99000000</color> <!-- Semi-transparent black -->
+    <color name="nav_icon">#FFC107</color> <!-- Gold icons -->
+    <color name="nav_text">#FFFFFF</color> <!-- White text -->
+    <color name="nav_bar_bg">#2C3E50</color> <!-- Dark theme for better visibility -->
+    <color name="nav_ripple_effect">#BBDEFB</color> <!-- Light ripple effect -->
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguaPlay</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="quiz">Quiz</string>
+    <string name="fill_in_the_blanks">Fill in the Blanks</string>
+    <string name="hola_hello">Hola - Hello</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="what_is_gato_in_english">What is "Gato" in English?</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="mouse">Mouse</string>
+    <string name="missing_word">_____ días</string>
+    <string name="enter_missing_word">Enter the missing word</string>
+    <string name="d_as">d_as</string>
+    <string-array name="languages_array">
+        <item>Tamil</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+
+</resources>
