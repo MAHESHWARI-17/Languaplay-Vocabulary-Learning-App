@@ -132,10 +132,23 @@ com.example.languaplay/
 ```
 
 ------------------------------------------
+Screenshots
+<img width="450" height="768" alt="image" src="https://github.com/user-attachments/assets/5aa7d9eb-c11e-48bd-bb60-37914003ef7a" />
+<img width="450" height="764" alt="image" src="https://github.com/user-attachments/assets/2e97987b-9663-42f1-9b42-e8f4b8ad7453" />
+<img width="421" height="723" alt="image" src="https://github.com/user-attachments/assets/af2f2364-2a0e-4a87-a71f-ca618c14f42b" />
+<img width="441" height="717" alt="image" src="https://github.com/user-attachments/assets/79db1e42-fd38-42f9-b7e8-0c1bc558a36f" />
+<img width="414" height="690" alt="image" src="https://github.com/user-attachments/assets/e2db565c-36a6-47df-bd48-dd27db860bf1" />
+<img width="425" height="829" alt="image" src="https://github.com/user-attachments/assets/ad5be28b-0dcb-406e-80a6-49962639732b" />
+<img width="392" height="676" alt="image" src="https://github.com/user-attachments/assets/ebb2ef9f-f498-43d2-a04e-9e12fb3f4566" />
+<img width="412" height="749" alt="image" src="https://github.com/user-attachments/assets/85706980-a521-486c-91e3-d5a4b6a0c68e" />
+<img width="408" height="748" alt="image" src="https://github.com/user-attachments/assets/6fb7fa49-1c0b-4777-aeb6-54a37d8d4715" />
+<img width="437" height="646" alt="image" src="https://github.com/user-attachments/assets/b07aab17-5366-4a3b-b4d3-025d7116c051" />
+<img width="441" height="748" alt="image" src="https://github.com/user-attachments/assets/1de462d3-7877-4ec8-a06b-94bc94c248cd" />
+
 
 ###  Developed By
 
-* M. Maheshwari (22I329)
+* M. Maheshwari
 
 ---
 
